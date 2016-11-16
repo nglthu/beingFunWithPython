@@ -1,22 +1,26 @@
 import turtle
 
-def draw_square():
+def draw(draw, n, angle, color, shape):
+    draw.color(color)
+    draw.shape(shape)
+    for x in range(0,n):
+        draw.forward(100)
+        draw.left(angle)
+    
+def draw_art():
     window = turtle.Screen()
     window.bgcolor("green")
-    draw = turtle.Turtle()
-    draw.shape("turtle")
-    draw.color("yellow")
-    draw.speed(4)
-    draw.forward(100)
-    draw.right(90)
-    draw.forward(100)
-    draw.right(90)
-    draw.forward(100)
-    draw.right(90)
-    draw.forward(100)
-    draw.right(90)
-
-    window.exitonclick()
-
-
-draw_square()
+    square = turtle.Turtle()
+    #draw square
+    draw(square,4,90,"yellow", "turtle")
+    #draw circle
+    circle = turtle.Turtle()
+    circle.shape("arrow")
+    circle.color("yellow")
+    circle.circle(100)
+    #draw triangle
+    triangle = turtle.Turtle()
+    draw(triangle, 3, 120, "yellow", "turtle")
+    window.exitonclick() #to exit
+    
+draw_art()
