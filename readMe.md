@@ -8,7 +8,7 @@
 
 ## Check words
 
-[![Check words](https://nglthu.github.io/beingFunWithPython/img/allsGood.png)]
+[![Check words](https://nglthu.github.io/beingFunWithPython/img/alllsGood.png)]
 
 
 ## rename file
