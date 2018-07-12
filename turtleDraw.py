@@ -27,7 +27,7 @@ def draw_art():
 
 def draw_follower():
     window = turtle.Screen()
-    window.bgcolor("green")
+    window.bgcolor("lightblue")
     square = turtle.Turtle()
     #draw triangle
     triangle = turtle.Turtle()
