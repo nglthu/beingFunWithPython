@@ -2,15 +2,15 @@
 
 ## Turtle draw
 
-[![Turtle](https://nglthu.github.io/beingFunWithPython/img/turtles.gif)]
+![Turtle](https://nglthu.github.io/beingFunWithPython/img/turtles.gif)
 
 ## Twillio Message
 
 ## Check words
 
-[![Check words](https://nglthu.github.io/beingFunWithPython/img/allIsGood.png)]
+![Check words](https://nglthu.github.io/beingFunWithPython/img/allIsGood.png)
 
 
-## rename file
+## Rename file
 
-[![Rename](https://nglthu.github.io/beingFunWithPython/img/rename.png)]
+![Rename](https://nglthu.github.io/beingFunWithPython/img/rename.png)
