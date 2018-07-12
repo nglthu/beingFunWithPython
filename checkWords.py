@@ -4,7 +4,7 @@ import os
 
 print(os.getcwd())
 currentPath = os.getcwd()
-filePath = currentPath+"\movie_quotes.txt"
+filePath = currentPath+"/movie_quotes.txt"
 print(filePath)
 
 def checkWords(word):
